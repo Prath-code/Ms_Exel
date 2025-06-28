@@ -23,8 +23,8 @@
 
    - Formatting in Excel
    - Paste Special in Excel
-     A. Example 1: Paste Only Formatting
-     B. Example 2: Paste Only Values (Remove Formula)
+     - Example 1: Paste Only Formatting
+     - Example 2: Paste Only Values (Remove Formula)
    - Shortcut for Paste Special
 
 2. Excel Tables
@@ -43,10 +43,10 @@
    - What is Filtering in Excel?
    - How to Apply Filters?
    - Advanced Filtering Options
-     A. Number Filters
-     B. Text Filters
-     C. Date Filters
-     D. Filter by Color
+     - Number Filters
+     - Text Filters
+     - Date Filters
+     - Filter by Color
    - Clear Filters & Sorting
    - Example Dataset for Practice
 
@@ -54,20 +54,20 @@
    - What is Data Validation in Excel?
    - How to Apply Data Validation?
    - Types of Data Validation
-     A. Whole Number Restriction
-     B. Decimal Restriction
-     C. Date Restriction
-     D. Time Restriction
-     E. Text Length Restriction
-     F. Drop-down List (Predefined Choices)
-     G. Custom Formula Validation
+     - Whole Number Restriction
+     - Decimal Restriction
+     - Date Restriction
+     - Time Restriction
+     - Text Length Restriction
+     - Drop-down List (Predefined Choices)
+     - Custom Formula Validation
    - Error Alerts & Messages
    - Data Validation Tips & Tricks
-     Tip 1: Use Named Ranges for Dynamic Drop-downs
-     Tip 2: Create Dependent Drop-down Lists
-     Tip 3: Allow Only Unique Entries
-     Tip 4: Highlight Invalid Data
-     Tip 5: Remove Data Validation
+    - Tip 1: Use Named Ranges for Dynamic Drop-downs
+    - Tip 2: Create Dependent Drop-down Lists
+    - Tip 3: Allow Only Unique Entries
+    - Tip 4: Highlight Invalid Data
+    - Tip 5: Remove Data Validation
    - Common Issues & Solutions
 5. Named Ranges
    - What is a Named Range?
