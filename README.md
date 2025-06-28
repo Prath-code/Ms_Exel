@@ -97,4 +97,4 @@
    - Handling Errors with Conditional Formatting
 
 **Note:**
-The Password of workbook and worksheet is Prath-code
+The Password of workbook and worksheet is in [passsword.txt](passsword.txt)
