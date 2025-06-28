@@ -63,11 +63,11 @@
      - Custom Formula Validation
    - Error Alerts & Messages
    - Data Validation Tips & Tricks
-    - Tip 1: Use Named Ranges for Dynamic Drop-downs
-    - Tip 2: Create Dependent Drop-down Lists
-    - Tip 3: Allow Only Unique Entries
-    - Tip 4: Highlight Invalid Data
-    - Tip 5: Remove Data Validation
+     - Tip 1: Use Named Ranges for Dynamic Drop-downs
+     - Tip 2: Create Dependent Drop-down Lists
+     - Tip 3: Allow Only Unique Entries
+     - Tip 4: Highlight Invalid Data
+     - Tip 5: Remove Data Validation
    - Common Issues & Solutions
 5. Named Ranges
    - What is a Named Range?
