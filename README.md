@@ -1,4 +1,4 @@
-# MS Exel
+# MS Excel
 
 ## Chapter 1
 
@@ -6,11 +6,11 @@
 
 1. Introduction
 
-   - What is exel workbook?
+   - What is excel workbook?
    - What is worksheet?
    - Navigating Between Sheets
 
-2. Relative & Abosolute Cell References
+2. Relative & Absolute Cell References
    - What is a Cell Reference?
    - Relative Cell Reference (A1)
    - Absolute Cell Reference ($A$1)
