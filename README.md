@@ -95,3 +95,6 @@
    - Using Error-Handling Functions
    - Preventing Formula Errors Before They Occur
    - Handling Errors with Conditional Formatting
+
+**Note:**
+The Password of workbook and worksheet is Prath-code
